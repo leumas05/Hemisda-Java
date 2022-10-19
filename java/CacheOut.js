@@ -11,7 +11,7 @@ function cacheOut(){
     kostnadBil = basketBil[2] * bil[3]
     kostnadDator = basketDator[2] * dator[3]
     kostnad = kostnadMat + kostnadMobil + kostnadBil + kostnadDator
-    document.getElementById('text').innerHTML = 'That will be: ' + kostnad + '<br> 1.Pay <br> 0.Back to menu'
+    document.getElementById('text').innerHTML = 'That will be: ' + kostnad + 'kr<br> 1.Pay <br> 0.Back to menu'
 }
 
 function leaveAndPay(){

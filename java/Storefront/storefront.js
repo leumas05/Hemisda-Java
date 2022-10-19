@@ -1,5 +1,7 @@
 var start = true
 
+var input = document.getElementById('Input');
+input.focus();
 
 if(start = true){
     document.getElementById('text').innerHTML = ""

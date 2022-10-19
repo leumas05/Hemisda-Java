@@ -11,14 +11,30 @@ nav{
 }
 #text{
     color: white;
+    position: fixed;
+    bottom: 50px;
+    font-size: xx-large;
 }
 
 #nav {
     text-decoration: none;
     color: white;
+    
 }
 
 #header{
     text-decoration: none;
     color: white;
+}
+
+#Input{
+    width: 99%;
+    height: 40px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    border-color: black;
+    position: fixed;
+    bottom: 0px;
+    margin-bottom: 10px;
+    font-size: xx-large;
 }
