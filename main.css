@@ -1,0 +1,24 @@
+html{
+    background-color: black;
+}
+header{
+    color: white;
+    text-align: center;
+}
+nav{
+    color: white;
+    text-align: center;
+}
+#text{
+    color: white;
+}
+
+#nav {
+    text-decoration: none;
+    color: white;
+}
+
+#header{
+    text-decoration: none;
+    color: white;
+}
