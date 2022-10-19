@@ -13,6 +13,14 @@ function main(){
                     plats = 'main'
                     Main();
                     break;
+                case 'S4m.dev':
+                case 's4m.dev':
+                    window.location.href = "http://S4m.dev"
+                    break;
+                case 'S4m':
+                case 's4m':
+                    window.location.href = "https://www.youtube.com/channel/UC7egtnN3aDZL-kwd0cMNF6g"
+                    break;
             }
         case 'main':
             switch(intagning){
