@@ -1,7 +1,11 @@
 var start = true
-
 var input = document.getElementById('Input');
 input.focus();
+
+document.onclick = function clicked(){
+    input.focus();
+}
+
 
 if(start = true){
     document.getElementById('text').innerHTML = ""
