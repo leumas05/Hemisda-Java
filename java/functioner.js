@@ -70,7 +70,7 @@ function main(){
             beställMat();
             }
             else {
-                alert('Så många finns inte')
+                alert('It doesn\'t exist that many')
                 Shop();
             }
         break;
@@ -80,7 +80,7 @@ function main(){
             beställmobil();
             }
             else {
-                alert('Så många finns inte')
+                alert('It doesn\'t exist that many')
                 Shop();
             }
         break;
@@ -90,7 +90,7 @@ function main(){
             beställbil();
             }
             else {
-                alert('Så många finns inte')
+                alert('It doesn\'t exist that many')
                 Shop();
             }
         break;
@@ -100,7 +100,7 @@ function main(){
             beställdator();
             }
             else {
-                alert('Så många finns inte')
+                alert('It doesn\'t exist that many')
                 Shop();
             }
         break;
