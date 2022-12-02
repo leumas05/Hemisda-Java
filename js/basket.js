@@ -31,7 +31,7 @@ function basket(){
         document.getElementById('text').innerHTML += basketDator[1] + ' : ' + basketDator[3] + 'kr - ' + basketDator[2] + 'st<br>'
     }
     if(basketMat[4] == 'false' && basketMobil[4] == 'false' && basketBil[4] == 'false' && basketDator[4] == 'false'){
-        document.getElementById('text').innerHTML += '\"Emtpy\" <br>'
+        document.getElementById('text').innerHTML += '\"Empty\" <br>'
     }
     document.getElementById('text').innerHTML += '1.Remove Product <br>'
     document.getElementById('text').innerHTML += '2.Empty basket <br>'
